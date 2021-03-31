@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aslam119 am an Indian studying in Oman in 9th grade
-- 👀 I’m interested in Machine Learning and Data Analyis, Data Science
+- 👀 I’m interested in Machine Learning and Data Analysis, Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m not looking to collaborate currently
 - 📫 I can be contacted with this email -> aslamabr2k@gmail.com
